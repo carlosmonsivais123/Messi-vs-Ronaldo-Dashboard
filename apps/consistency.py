@@ -98,7 +98,7 @@ layout = html.Div([html.Div(html.H1("Consistency"), style = {'padding' : '0px',
                                        style = {'display': 'inline-block', 'verticalAlign': 'top', 'width': '100%'}),
 
 
-                    html.Div(html.H3("Matches Played"), style = {'padding' : '0px',
+                    html.Div(html.H3("Minutes Played"), style = {'padding' : '0px',
                                                              'backgroundColor' : '#686868', 'display': 'inline-block', 'verticalAlign': 'top',
                                                               "width": "100%", "color": "gold"
                                                               }),
